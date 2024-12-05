@@ -1,0 +1,51 @@
+"Notes"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"1999"	"1999"	572	561944	101.8
+	"2000"	"2000"	492	559062	88.0
+	"2001"	"2001"	515	555536	92.7
+	"2002"	"2002"	542	553170	98.0
+	"2003"	"2003"	479	551742	86.8
+	"2004"	"2004"	527	549713	95.9
+	"2005"	"2005"	486	546979	88.9
+	"2006"	"2006"	418	543620	76.9
+	"2007"	"2007"	462	540667	85.5
+	"2008"	"2008"	516	537664	96.0
+	"2009"	"2009"	514	535294	96.0
+	"2010"	"2010"	502	535153	93.8
+	"2011"	"2011"	560	534882	104.7
+	"2012"	"2012"	559	534692	104.5
+	"2013"	"2013"	586	534126	109.7
+	"2014"	"2014"	521	532183	97.9
+	"2015"	"2015"	549	531567	103.3
+	"2016"	"2016"	561	531239	105.6
+"Total"			9361	9769233	95.8
+"---"
+"Dataset: Compressed Mortality, 1999-2016"
+"Query Parameters:"
+"ICD-10 Codes: J00-J98 (Diseases of the respiratory system)"
+"States: Montgomery County, OH (39113)"
+"Group By: Year"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Nov 27, 2024 8:08:59 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality: Compressed Mortality File 1999-2016 on CDC WONDER Online Database, released June 2017. Data are from the"
+"Compressed Mortality File 1999-2016 Series 20 No. 2U, 2016, as compiled from data provided by the 57 vital statistics"
+"jurisdictions through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on Nov 27, 2024"
+"8:08:59 PM"
+"---"
+Caveats:
+"1. About population figures for regions, divisions, states and counties: population figures for 1999 are from the 1990-1999"
+"series of bridged-race intercensal estimates of the July 1 resident population; population figures for 2000 and 2010 are"
+"bridged-race April 1 census counts; population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race"
+"intercensal estimates of the July 1 resident population; and population figures for 2011-2015 are bridged-race postcensal"
+"estimates of the July 1 resident population, from the Vintage 2015 series released by NCHS on June 28, 2016."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"3. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2014-Revision."

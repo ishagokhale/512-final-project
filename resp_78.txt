@@ -1,0 +1,39 @@
+"Notes"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"1968"	"1968"	301	616097	48.9
+	"1969"	"1969"	281	611701	45.9
+	"1970"	"1970"	287	609489	47.1
+	"1971"	"1971"	241	604330	39.9
+	"1972"	"1972"	256	600878	42.6
+	"1973"	"1973"	246	591177	41.6
+	"1974"	"1974"	218	584600	37.3
+	"1975"	"1975"	223	582980	38.3
+	"1976"	"1976"	257	577440	44.5
+	"1977"	"1977"	273	571503	47.8
+	"1978"	"1978"	260	570007	45.6
+"Total"			2843	6520202	43.6
+"---"
+"Dataset: Compressed Mortality, 1968-1978"
+"Query Parameters:"
+"ICD-8 Codes: 460-519 (Diseases of the respiratory system)"
+"States: Montgomery County, OH (39113)"
+"Group By: Year"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Nov 27, 2024 8:06:39 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality: Compressed Mortality File 1968-1978. CDC WONDER Online Database, compiled from Compressed Mortality File CMF"
+"1968-1988, Series 20, No. 2A, 2000. Accessed at http://wonder.cdc.gov/cmf-icd8.html on Nov 27, 2024 8:06:39 PM"
+"---"
+Caveats:
+"1. About sub-national population figures: population figures for 1968-69 are estimates derived by NCHS using linear"
+"extrapolation; population figures for 1970 are April 1 modified census counts; and population figures for 1971-78 are"
+"intercensal estimates of the July 1 resident population. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Population"
+"Information."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the number of live births"
+"for the given time period. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
